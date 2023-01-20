@@ -1,4 +1,4 @@
-# Simple API made with Spring Boot using MongoDB Atlas database
+# Simple API made with Spring Boot and MongoDB Atlas database
 
 # GET Endpoints:
 - "/api/v1/movies" -> Get all movies
